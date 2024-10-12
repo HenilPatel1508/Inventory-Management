@@ -15,4 +15,3 @@ A simple MERN project that lets the user insert, update, delete & get products f
    - cd Frontend
    - cd inventory_management_system
    - npm start
-   ![image](https://github.com/mhy20401/Inventory-Management-System-MERN-CRUD-Project/assets/99351091/93fa528b-bc88-49c2-9922-19b317336b7c)
